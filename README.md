@@ -1,17 +1,17 @@
 <br>
 <div align="center">
 <h1 align="fill" >
-<img src="C:\Users\INDHUMATHI\Downloads\download.png" />
+<img src="https://www.google.com/imgres?imgurl=x-raw-image%3A%2F%2F%2F902c47893fc2c2339fcb3fd87a85a622f39b8b1dcc5fa4728a91c446d3ce556c&imgrefurl=https%3A%2F%2Fcareereducation.smartinternz.com%2Fsaas-guided-project%2F3%2Freal-time-communication-system-powered-by-ai-for-specially-abled&tbnid=M8LCP4lHLJBVKM&vet=12ahUKEwjRrq-V7bj7AhVKi9gFHSNJDNcQMygAegUIARC7AQ..i&docid=FYGLB2yOyrA5uM&w=600&h=276&q=real%20time%20communication%20system%20powered%20by%20ai&ved=2ahUKEwjRrq-V7bj7AhVKi9gFHSNJDNcQMygAegUIARC7AQ" />
 </h1>
 
 
 <br /> 
 
-  <h3 align="center" size=20px>A GESTURE BASED TOOL FOR STERILE BROWSING OF RADIOLOGY IMAGES</h3>
+  <h3 align="center" size=20px>REAL-TIME COMMUNICATION SYSTEM POWERED BY AI FOR SPECIALLY ABLED</h3>
 
   <p align="center">
-    TECHNOLOGY : A Gesture based Tool for Sterile Browsing of Radiology Images<br />
-    TEAM ID    : PNT2022TMID18699 <br />
+    TECHNOLOGY : Real-Time Communication System Powered By AI For Specially Abled<br />
+    TEAM ID    : PNT2022TMID18723 <br />
     BATCH NO   : B4-4M6E <br />  
   </p>
 </p>
