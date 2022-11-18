@@ -101,7 +101,7 @@ The project aims to develop a system that converts the sign language into a huma
 
 
 <hr>
-📫 How to reach Us <a href = "mailto:kanish.19it@sonatech.ac.in">Connect with Email</a>
+📫 How to reach Us <a href = "mailto:mathangi.19it@sonatech.ac.in">Connect with Email</a>
 
 <hr>
 <div align="center">
