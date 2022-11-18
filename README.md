@@ -105,7 +105,7 @@ The project aims to develop a system that converts the sign language into a huma
 
 <hr>
 <div align="center">
- <h5> | `A GESTURE BASED TOOL FOR STERILE BROWSING OF RADIOLOGY IMAGES` |</h5>
+ <h5> | `Real-Time Communication System Powered By AI For Specially Abled` |</h5>
 
 <hr>
                    
